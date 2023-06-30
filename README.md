@@ -6,6 +6,7 @@ A simple script that checks if a user is live every 5 minutes, it saves the vide
 
 1. Create an .env file in the folder with the script
 2. Put in your Twitch API info and the user who's livestream you want to record.
+3. Open recorder.py and on line 42 change the location where you want the video to be saved. 
 
 -- Optionally --
 
